@@ -57,6 +57,7 @@ Compare original and generated images.
 Document differences and improvements.
 
 Output:
+https://github.com/astro-NAVEEN/Exp--7-Prompt-Engineering/blob/main/Experiment_7_Image_Reproduction.docx
 
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
